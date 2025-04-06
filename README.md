@@ -1,6 +1,6 @@
 ## OS
 
-bicycle for the mind
+let's build a bicycle for the mind
 
 #### License
 
